@@ -1,0 +1,186 @@
+body{
+  background-color:black;
+  color: white;
+  font-family: 'Prata', serif;
+}
+h1 {
+  text-align: right;
+  margin-right: 300px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 96px;
+  line-height: 130px;
+  letter-spacing: 0.1em;
+
+}
+#s1 {
+  padding-top: 120px;
+  background-image: url(../img/curv1.svg);
+  background-repeat: no-repeat;
+  background-position: left -5px top 0;
+}
+
+#s1 p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+  width: 700px;
+  margin-left: 200px;
+}
+.title-line {
+  display: block;
+
+  width: 792px;
+  margin: -60px auto -40px;
+}
+.container1 {
+  max-width: 980px;
+
+  margin: 0 auto;
+}
+.bbb {
+  width:100%;
+}
+/*=====================================================================*/
+#s2 {
+  padding: 40px 137px;
+}
+.ill-txt {
+  position: relative;
+}
+.ill-txt p {
+  position: absolute;
+  top: 30px;;
+  left: 30px;
+  color: black;
+  font-size: 30px;
+
+}
+.container1 {
+  max-width: 980px;
+
+  margin: 0 auto;
+}
+#s2  {
+  padding: 40px 137px;
+}
+  p {
+  position: relative;
+}
+p {
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 49px;
+
+  margin: 0 auto;
+
+}
+
+/*=====================================================================*/
+
+#s3 {
+  padding: 120px 137px;
+  background-image: url(../img/curv2.svg), url(../img/curv3.svg),url(../img/curv3.svg);
+  background-repeat: no-repeat;
+  background-position: right -5px top 100px, right 0 bottom 300px, right 300px bottom 0;
+}
+
+.s3-p1 {
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 49px;
+
+margin: 0 0 50px;
+}
+#s3 ul {
+  margin: 0 0 50px 30px;
+  font-size: 36px;
+  list-style-type: disc;
+}
+.s3-grav {
+  margin: 400px 0;
+  text-align: right;
+}
+.shr, .abc123 {
+  margin: 50px 0 150px;
+}
+
+.curve3 {
+  position: absolute;
+  width: 406.24px;
+  height: 1793.78px;
+  left: 883px;
+  top: 4225px;
+}
+
+/*=====================================================================*/
+#s4  {
+  padding: 120px 137px;
+}
+/*=====================================================================*/
+#s5 {
+  padding: 120px 137px;
+  background-image: url(../img/curv4.svg);
+  background-repeat: no-repeat;
+  background-position: left -50px bottom 0;;
+
+}
+#s5 p {
+    font-style: normal;
+   font-weight: normal;
+   font-size: 24px;
+   line-height: 33px;
+   margin: 50px 0;
+}
+.r-ill {
+
+  text-align: right;
+}
+/*=====================================================================*/
+#s6 {
+  padding: 120px 137px;
+  background-color: white;
+}
+#s6 p {
+  font-size: 24px;
+  color: black;
+  margin: 50px 0;
+}
+/*=====================================================================*/
+#s8 {
+  background-color: white;
+}
+#s7 {
+  padding: 120px 137px;
+  background-image: url(../img/curv5.svg);
+  background-repeat: no-repeat;
+  background-position: left -200px bottom 0;
+  background-size:120%;
+}
+.s7-p1 {
+  font-size: 24px;
+  margin: 400px 0 100px;
+}
+.p48 {font-size: 48px;}
+.ill-up-r {
+  margin: -400px 0 0  400px;
+}
+.gravure3 {
+  margin: 400px 0 150px 500px;
+}
+/*===============================================================================*/
+#s9 {
+  padding: 120px 137px;
+  background-image: url(../img/curv6.svg);
+  background-repeat: no-repeat;
+  background-position: left  0 bottom 0;
+  background-size:cover;
+}
+
+.c-ill {
+  text-align: center;
+  margin: 200px 0;
+}
